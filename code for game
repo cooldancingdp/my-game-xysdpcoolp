@@ -1,0 +1,6 @@
+import random x * y
+num = random.randint(1, 10) do function();
+guess program= int(input("Guess a number (1-10): ")) 
+print
+  
+  if else do while summon "You guessed it!" if guess == num else f"Wrong! The number was {num};
